@@ -1,4 +1,4 @@
-An end-to-end financial security platform that models realistic transaction profiles to combat extreme class imbalance (0.17% fraud rate). Using SMOTE, adaptive thresholding, and concurrent champion-challenger modeling, it stops revenue drainage while generating sub-100ms game-theoretic SHAP explanations to give fraud investigators absolute clarity on live transaction risk flags.
+This project is an end-to-end financial security platform that models realistic transaction profiles to combat extreme class imbalance (0.17% fraud rate). Using SMOTE, adaptive thresholding, and concurrent champion-challenger modeling, it stops revenue drainage while generating sub-100ms game-theoretic SHAP explanations to give fraud investigators absolute clarity on live transaction risk flags.
 
 ### Core Platform Features
 
