@@ -9,6 +9,7 @@ This project is an end-to-end financial security platform that models realistic 
 * **Local SHAP Explainability:** Translates complex mathematical tree decisions into distinct, feature-level attribution graphs for security analysts.
 * **Self-Healing Cloud Deployment:** Built as a lightweight, zero-bloat pipeline that dynamically provisions, builds, and caches the ML state instantly on initialization.
 Access this application :- https://financial-fraud-detection-p9e2smuaichwtrpzxskpha.streamlit.app/
-<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/172bbd11-c404-452f-9519-af6968f80db5" />
+
+<img width="1919" height="846" alt="image" src="https://github.com/user-attachments/assets/49f3fadc-1d59-4068-aa4e-e985775b6446" />
 
 <img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/4d09d95e-0790-47a7-8617-5724a060f6db" />
